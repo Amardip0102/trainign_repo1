@@ -1,1 +1,5 @@
 f4/*.c
+f4/*.txt
+
+*.bin
+*_TDA2.hex
